@@ -155,7 +155,9 @@ SELECT a.tablespace_name "表空间名",Total/1024/1024 "大小MB",
  where  a.tablespace_name = b.tablespace_name;
 ```
 
+![查看表空间截图1](5.png)
 
+![查看表空间截图2](6.png)
 
 ## 4. 实验总结：
 
